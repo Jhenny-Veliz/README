@@ -16,10 +16,7 @@
 
 ## ⚠️ Antes de tudo
 
-Tudo o que compartilho aqui vem de experiências acumuladas desde **2017 até hoje**, trabalhando diariamente com Redes.  
-Sou alguém da área de Infra que aprendeu programação para resolver problemas reais — e agora estou passando esse conhecimento adiante.
-
-Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAMENTE o caminho que eu recomendo para todo mundo que me pergunta:
+A idéia do espaço e aprendizado contínuo
 
 
 <h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
